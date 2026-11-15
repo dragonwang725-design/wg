@@ -8,7 +8,7 @@
 - [四、](/T.md)
 - [五、](/TDA三.md)
 - [六、](/TDA/双.md)
-- [七、Theory）](theory.md)
+- [七、Theory](theory.md)
 - [八、](/Appendix_.md)
 - [九、](表.md)
 - [附录]
