@@ -20,7 +20,6 @@
 - [D：](云端.md)
 - [E：](一致性报告.md)
 - [F：](控制体系.md)
-- [](/nmp_integrated.py)
-- [](/demo_v2.py)
+
  
   
